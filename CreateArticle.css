@@ -1,0 +1,21 @@
+.inputZone {
+    margin: 4% 0%;
+}
+
+#createArticleBtn {
+    background-color: darkorange;
+    color: white;
+    border-color: darkorange;
+    border-radius: 20%;
+    font-size: 2em;
+}
+
+#articleText {
+    width: 90%;
+    height: 100%;
+}
+
+#textZone{
+    width: 90%;
+    height: 100%; 
+}
